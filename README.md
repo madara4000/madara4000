@@ -12,10 +12,10 @@
  <img align="center" alt="c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
  
-// <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/
-"/>
-// <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/
-"/>
+"// <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/
+"/>"
+"// <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/
+"/>"
 
  
  <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"/>
