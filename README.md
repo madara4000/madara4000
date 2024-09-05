@@ -14,7 +14,7 @@
  <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
  <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"/>
  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="Rust" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
  <img align="center" alt="postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
